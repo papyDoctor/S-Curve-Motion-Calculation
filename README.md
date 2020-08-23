@@ -1,4 +1,8 @@
 # S-Curve-Motion-Calculation
+Can be tested here https://mybinder.org/v2/gh/papyDoctor/S-Curve-Motion-Calculation/master
+
+(ALWAYS begin execution from the FIRST cell. Do twice the entire sheet to have graphics in good format)
+
 Discussions about this calculation on https://groups.google.com/g/openpnp/c/YBS0a3vZEAw
 
 *UPDATE:* Special thanks to _Mark from OpenPnP group for having tested the first version of this calculation and shown that it was not optimal.
