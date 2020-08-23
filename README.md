@@ -9,7 +9,7 @@ Discussions about this calculation on https://groups.google.com/g/openpnp/c/YBS0
 
 This jupyter notebook shows a way to calculate the complete S-Curve motion without any iteration.
 
-**Given maximum jerk-acceleration-speed, given xStart and xEnd, the algorithm calculate the travel that uses the minimum time**
+**Given maximum jerk-acceleration-speed, given xStart and xEnd, the algorithm calculates the travel that uses the minimum time**
 
 S-Curve motion means that, given the speed, acceleration and hyper-acceleration (called jerk), given a starting and a ending point, the calculation results give a smooth motion: at any time the jerk is maintained under a given maximum.
 
